@@ -1,4 +1,4 @@
 # New-Search
 Um universo de conhecimento à um clique. Selecione seu portal e explore!
 https://redesreverse.neocities.org/search
-![image](https://github.com/user-attachments/assets/5e366170-7c54-45a9-a482-3d076a7e7c77)
+<img width="1908" height="921" alt="image" src="https://github.com/user-attachments/assets/4192564f-b633-4ca5-a039-f78efb7a4254" />
